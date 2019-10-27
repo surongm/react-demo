@@ -1,0 +1,144 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "author": "李四",
+      "time": "1569053122000",
+      "reading": 20,
+      "val": "组件化就是将一个项目拆分成若干个组件，分而件，分而治之。比如一个汽车的生产，也是将轮子、灯、座椅等等作为单独的组件，由各自的工厂去生产维护，生产轮子的就专门做轮子，生产座椅的就专门生产座椅，等各个组件都做好后再拿到组装厂统一调度组装使用。在实际的开发中也是一样，比如我们经常用到的微信，有朋治按钮等等，这样在项目中多处地方用到的话就可以直接调用组件使用了。"
+    },
+    {
+      "id": 2,
+      "author": "张三",
+      "time": "1569056722000",
+      "reading": 10,
+      "val": "组件化就是将一个项目拆分成若干个组友一个小UI，比如bander、按钮等等，这样在项目中多处地方用到的话就可以直接调用组件使用了。"
+    },
+    {
+      "id": 3,
+      "author": "张三22",
+      "time": "1569060322000",
+      "reading": 10,
+      "val": "组件化就是将一个项目拆分成若干微信，有朋友圈、漂流瓶、聊天模块、支付模块等等众多功能，微信开发者也是按照组件来划分各自的开发任务的，比如A团队负责漂流瓶、B团队负责朋友圈等。然后在总项目中分别调用组件来使用。当然，组件并不一定是这么大的业务模块，也可能是一个小UI，比如bander、按钮等等，这样在项目中多处地方用到的话就可以直接调用组件使用了。"
+    },
+    {
+      "id": 4,
+      "author": "张三66",
+      "time": "1569063922000",
+      "reading": 10,
+      "val": "组件化就是将一个项目拆分成若干微信，有朋友圈、漂流瓶、聊天模块、支付模块等等众多功能，微信开发者也是按照组件来划分各自的开发任务的，比如A团队负责漂流瓶、B团队负责朋友圈等。然后在总项目中分别调用组件来使用。当然，组件并不一定是这么大的业务模块个项目拆分成若干微信，有朋友圈、漂流瓶、聊天模块、支付模块等等众多功能，微信开发者也是按照组件来划分各自的开发任务的，比如A团队负责漂流瓶、B团队负责朋友圈等。然后在总项目中分别调用组件来使用。当然，组件并不一定是这么大的业，也可能是一个小UI，比如bander、按钮等等，这样在项目中多处地方用到的话就可以直接调用组件使用了。"
+    },
+    {
+      "author": "李四",
+      "time": "1569149818038",
+      "reading": "0",
+      "val": "545555222222222222222",
+      "id": 5
+    },
+    {
+      "author": "李四",
+      "time": "1569150074085",
+      "reading": "0",
+      "val": "\nWeb前端试题\n\n（框架应用）\n\n\n\n实现要求\n\n\n\n1、运用脚手架进行开发，推荐使用create-react-app\n\n\n\n2、使用axios作为HTTP请求异步库，同时使用json-server模拟 RESTful API\n\n\n\n3、使用react-router实现前端路由\n\n\n\n4、保持良好的项目目录结构，正确拆分页面，组件化开发\n\n\n\n5、使用ES6+，保持良好的代码风格 / 代码可读性\n\n\n\n6、使用React框架实现原型中的功能：动态列表、发布动态.（请认真看原型中的描述）\n\n\n\n7、要保证页面打开后能正常展示\nWeb前端试题\n\n（框架应用）\n\n\n\n实现要求\n\n\n\n1、运用脚手架进行开发，推荐使用create-react-app\n\n\n\n2、使用axios作为HTTP请求异步库，同时使用json-server模拟 RESTful API\n\n\n\n3、使用react-router实现前端路由\n\n\n\n4、保持良好的项目目录结构，正确拆分页面，组件化开发\n\n\n\n5、使用ES6+，保持良好的代码风格 / 代码可读性\n\n\n\n6、使用React框架实现原型中的功能：动态列表、发布动态.（请认真看原型中的描述）\n\n\n\n7、要保证页面打开后能正常展示\nWeb前端试题\n\n（框架应用）\n\n\n\n实现要求\n\n\n\n1、运用脚手架进行开发，推荐使用create-react-app\n\n\n\n2、使用axios作为HTTP请求异步库，同时使用json-server模拟 RESTful API\n\n\n\n3、使用react-router实现前端路由\n\n\n\n4、保持良好的项目目录结构，正确拆分页面，组件化开发\n\n\n\n5、使用ES6+，保持良好的代码风格 / 代码可读性\n\n\n\n6、使用React框架实现原型中的功能：动态列表、发布动态.（请认真看原型中的描述）\n\n\n\n7、要保证页面打开后能正常展示\nWeb前端试题\n\n（框架应用）\n\n\n\n实现要求\n\n\n\n1、运用脚手架进行开发，推荐使用create-react-app\n\n\n\n2、使用axios作为HTTP请求异步库，同时使用json-server模拟 RESTful API\n\n\n\n3、使用react-router实现前端路由\n\n\n\n4、保持良好的项目目录结构，正确拆分页面，组件化开发\n\n\n\n5、使用ES6+，保持良好的代码风格 / 代码可读性\n\n\n\n6、使用React框架实现原型中的功能：动态列表、发布动态.（请认真看原型中的描述）\n\n\n\n7、要保证页面打开后能正常展示\nWeb前端试题\n\n（框架应用）\n\n\n\n实现要求\n\n\n\n1、运用脚手架进行开发，推荐使用create-react-app\n\n\n\n2、使用axios作为HTTP请求异步库，同时使用json-server模拟 RESTful API\n\n\n\n3、使用react-router实现前端路由\n\n\n\n4、保持良好的项目目录结构，正确拆分页面，组件化开发\n\n\n\n5、使用ES6+，保持良好的代码风格 / 代码可读性\n\n\n\n6、使用React框架实现原型中的功能：动态列表、发布动态.（请认真看原型中的描述）\n\n\n\n7、要保证页面打开后能正常展示",
+      "id": 6
+    },
+    {
+      "author": "李四",
+      "time": "1569151426605",
+      "reading": "0",
+      "val": "qqqq\nppppppp\nkkkkkkkkkkkk",
+      "id": 7
+    },
+    {
+      "author": "李四",
+      "time": "1569151448685",
+      "reading": "0",
+      "val": "qqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkkqqqq\nppppppp\nkkkkkkkkkkkk",
+      "id": 8
+    },
+    {
+      "author": "李四48",
+      "time": "1569155104690",
+      "reading": "0",
+      "val": "凄凄切切群群群群群\nqqqqq\nqqqqqqqqqqq\n\nqqqqqqqq\n\n\nqwwwwwwwww少时诵诗书所所所所\n",
+      "id": 9
+    },
+    {
+      "author": "李四12",
+      "time": "1569155229950",
+      "reading": "0",
+      "val": "显示显示显示显示显示显示显示显示显示显示\n显示显示显示显示显示显示显示显示显示显示\n显示显示显示显示显示显示显示显示显示显示\n显示显示显示显示显示显示显示显示显示显示\n显示显示显示显示显示显示显示显示显示显示\n显示显示显示显示显示显示显示显示显示显示\n显示显示显示显示显示显示显示显示显示显示\n",
+      "id": 10
+    },
+    {
+      "author": "李四71",
+      "time": "1569155346405",
+      "reading": "0",
+      "val": "222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
+      "id": 11
+    },
+    {
+      "author": "李四52",
+      "time": "1569155606334",
+      "reading": "0",
+      "val": "的问题放入的问题放入的问题放入的问题放入",
+      "id": 12
+    },
+    {
+      "author": "李四2",
+      "time": "1569155711227",
+      "reading": "0",
+      "val": "jquery。主线程上的同步XMLHttpRequest被弃用，因为它对最终用户的体验有有害影响。更多帮助，请查看https://xhr.spec.whatwg.org/。jquery。主线程上的同步XMLHttpRequest被弃用，因为它对最终用户的体验有有害影响。更多帮助，请查看https://xhr.spec.whatwg.org/。jquery。主线程上的同步XMLHttpRequest被弃用，因为它对最终用户的体验有有害影响。更多帮助，请查看https://xhr.spec.whatwg.org/。",
+      "id": 13
+    },
+    {
+      "author": "李四45",
+      "time": "1569156141011",
+      "reading": "0",
+      "val": "呜呜呜呜呜呜呜呜无无无无无",
+      "id": 14
+    },
+    {
+      "author": "李四29",
+      "time": "1569156262475",
+      "reading": "0",
+      "val": "凄凄切切群群群群群群群群群群群群群群群群群群群群群群",
+      "id": 15
+    },
+    {
+      "author": "李四68",
+      "time": "1569156616107",
+      "reading": "0",
+      "val": "呜呜呜呜呜呜呜呜无无无无无道氏深水虱少时诵诗书所所",
+      "id": 16
+    },
+    {
+      "author": "李四86",
+      "time": "1569156745258",
+      "reading": "0",
+      "val": "1 history.go(0)\n2 location.reload()\n3 location=location\n4 location.assign(location)\n5 document.execCommand('Refresh')\n6 window.navigate(location)\n7 location.replace(location)\n8 document.URL=location.href\n这几个都可以刷新\nwindow.location.reload();刷新\nwindow.location.href=window.location.href;刷新\nwindow.close();关闭窗口，不弹出系统提示，直接关闭　\nwindow.close()相当于self属性是当前窗口\nwindow.parent.close()是parent属性是当前窗口或框架的框架组\n页面实现跳转的九种方法实例：\n<html>\n< head>\n< meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n< title>navigate</title>\n< script language=\"javascript\">\n    setTimeout('window.navigate(\"top.html\");',2000);\n    setTimeout('window.document.location.href=\"top.html\";',2000);\n    setTimeout('window.document.location=\"top.html\";',2000);\n    setTimeout('window.location.href=\"top.html\";',2000);\n    setTimeout('window.location=\"top.html\";',2000);\n    setTimeout('document.location.href=\"top.html\";',2000);              ",
+      "id": 17
+    },
+    {
+      "author": "李四81",
+      "time": "1569156795471",
+      "reading": "0",
+      "val": "父组件获取属性名称列表\n将列表传给子组件，子组件通过属性名称获取属性详情，渲染表格\n问题：\n\n现实现表格编辑功能，即在子组件的表格中可以编辑，编辑后保存\n如何使得父组件刷新，重新拿到数据库中最新的信息呈现在列表\n\n现在每次修改完成表格后，不F5刷新页面是看不到最新更新的内容",
+      "id": 18
+    },
+    {
+      "author": "李四87",
+      "time": "1569157788078",
+      "reading": "0",
+      "val": "\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n\n\n\n粘贴操作补充说明：如果遇到“粘贴字符的个数 + 输入框原有字符的个数 > 2000”，对粘贴字符串做截取动作。\n\n例：粘贴字符100个，输入框原有字符1950个，截取头50个粘贴字符\n\n\n\n3、未输入时，发布按钮不可用，输入框中显示“撰写新动态……”，输入内容后“发布”按钮可用\n\n\n\n4、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n\n\n\n粘贴操作补充说明：如果遇到“粘贴字符的个数 + 输入框原有字符的个数 > 2000”，对粘贴字符串做截取动作。\n\n例：粘贴字符100个，输入框原有字符1950个，截取头50个粘贴字符\n\n\n\n3、未输入时，发布按钮不可用，输入框中显示“撰写新动态……”，输入内容后“发布”按钮可用\n\n\n\n4、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n\n\n\n粘贴操作补充说明：如果遇到“粘贴字符的个数 + 输入框原有字符的个数 > 2000”，对粘贴字符串做截取动作。\n\n例：粘贴字符100个，输入框原有字符1950个，截取头50个粘贴字符\n\n\n\n3、未输入时，发布按钮不可用，输入框中显示“撰写新动态……”，输入内容后“发布”按钮可用\n\n\n\n4、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n\n\n\n粘贴操作补充说明：如果遇到“粘贴字符的个数 + 输入框原有字符的个数 > 2000”，对粘贴字符串做截取动作。\n\n例：粘贴字符100个，输入框原有字符1950个，截取头50个粘贴字符\n\n\n\n3、未输入时，发布按钮不可用，输入框中显示“撰写新动态……”，输入内容后“发布”按钮可用\n\n\n\n4、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n\n\n\n粘贴操作补充说明：如果遇到“粘贴字符的个数 + 输入框原有字符的个数 > 2000”，对粘贴字符串做截取动作。\n\n例：粘贴字符100个，输入框原有字符1950个，截取头50个粘贴字符\n\n\n\n3、未输入时，发布按钮不可用，输入框中显示“撰写新动态……”，输入内容后“发布”按钮可用\n\n\n\n4、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n\n\n\n粘贴操作补充说明：如果遇到“粘贴字符的个数 + 输入框原有字符的个数 > 2000”，对粘贴字符串做截取动作。\n\n例：粘贴字符100个，输入框原有字符1950个，截取头50个粘贴字符\n\n\n\n3、未输入时，发布按钮不可用，输入框中显示“撰写新动态……”，输入内容后“发布”按钮可用\n\n\n\n4、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n\n\n\n粘贴操作补充说明：如果遇到“粘贴字符的个数 + 输入框原有字符的个数 > 2000”，对粘贴字符串做截取动作。\n\n例：粘贴字符100个，输入框原有字符1950个，截取头50个粘贴字符\n\n\n\n3、未输入时，发布按钮不可用，输入框中显示“撰写新动态……”，输入内容后“发布”按钮可用\n\n\n\n4、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框，带字符数统计，字符数达到2000后不能继续输入、也不能粘贴\n、点击“发布”，输入的内容要显示在动态列表中，如果内容中有换行，列表展示时要保留换行。\n实现动态的发布\n\n\n\n1、点击新建按钮，弹出动态发布弹窗\n\n\n\n2、多行文本输入框\n",
+      "id": 19
+    },
+    {
+      "author": "李四69",
+      "time": "1569160716287",
+      "reading": "0",
+      "val": "苏 苏苏苏 苏苏苏 苏苏苏 苏苏\n苏 苏苏苏 苏苏苏 苏苏苏 苏苏苏 苏苏\n苏 苏苏苏 苏苏苏 苏苏苏 苏苏苏 苏苏\n苏 苏苏苏 苏苏苏 苏苏苏 苏苏苏 苏苏\n苏 苏苏苏 苏苏苏 苏苏苏 苏苏苏 苏苏\n苏 苏苏\n苏 苏苏苏 苏苏苏 苏苏苏 苏苏\n苏 苏苏\n苏 苏苏苏 苏苏苏 苏苏苏 苏苏\n苏 苏苏",
+      "id": 20
+    }
+  ]
+}
