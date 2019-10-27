@@ -1,11 +1,14 @@
 import React from 'react';
-import { Button} from 'antd'
+import {
+  Home,
+  Detail
+} from './components'
 
 function App() {
   return (
     <div className="App">
-      <Button>测试</Button>
-      <button>测试</button>
+      <Home/>
+      <Detail/>
     </div>
   );
 }

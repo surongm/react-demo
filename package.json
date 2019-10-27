@@ -1,5 +1,5 @@
 {
-  "name": "demo02",
+  "name": "demo03",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +30,6 @@
   },
   "devDependencies": {
     "antd": "^3.23.6",
-    "babel-plugin-import": "^1.12.2",
     "customize-cra": "^0.8.0",
     "react-app-rewired": "^2.1.3"
   }
