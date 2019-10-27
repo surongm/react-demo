@@ -1,12 +1,18 @@
 import React, { Component } from 'react'
-import { Button } from 'antd';
+import { 
+    Header,
+    Content,
+    Footer
+ } from '../../components';
 
 export default class Home extends Component {
     render() {
         return (
             <div>
                 Home
-                <Button>测试Home</Button>
+                <Header />
+                <Content />
+                <Footer />
             </div>
         )
     }

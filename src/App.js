@@ -3,7 +3,7 @@ import 'antd/dist/antd.css';
 import {
   Home,
   Detail
-} from './components'
+} from './views'
 
 function App() {
   return (
