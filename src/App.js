@@ -1,4 +1,5 @@
 import React from 'react';
+import 'antd/dist/antd.css';
 import {
   Home,
   Detail
@@ -7,8 +8,8 @@ import {
 function App() {
   return (
     <div className="App">
-      <Home/>
-      <Detail/>
+      <Home />
+      <Detail />
     </div>
   );
 }
